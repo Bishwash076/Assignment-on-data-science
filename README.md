@@ -69,7 +69,7 @@ Usage-Based: Revenue split proportionally based on usage volume
 Custom Model: Built by defining and justifying methodology.
 -------------------------------------------------------------------------------------------------------------------------------------------
 
-See Process flow chart.png for methodology for solving this problem.
+See Process flow chart.png for methodology used for solving this problem.
 
 
 
