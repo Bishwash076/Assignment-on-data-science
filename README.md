@@ -66,8 +66,10 @@ First-Touch: 100% revenue → first integration connected post-payment
 
 Usage-Based: Revenue split proportionally based on usage volume
 
-Custom Model: You define and justify methodology
+Custom Model: Built by defining and justifying methodology.
+-------------------------------------------------------------------------------------------------------------------------------------------
 
+See Process flow chart.png for methodology for solving this problem.
 
 
 
