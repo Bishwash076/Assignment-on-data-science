@@ -2,7 +2,6 @@ To address the KrispCall Revenue Attribution Analysis task in Google Colab, I’
 Key Considerations
 
 Datasets: The provided datasets match the structure in the data dictionary, with 50 workspaces, 105 payment/refund records, 119 integration events, and 1572 call/SMS events.
-Error Fix: The previous KeyError: 'team_size' is resolved by using total_users in final_workspace_data.csv.
 Attribution Models:
 
 First-Touch: Assigns 100% of net revenue to the first integration connected after the first payment.
