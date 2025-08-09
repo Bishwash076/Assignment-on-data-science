@@ -68,14 +68,6 @@ Usage-Based: Revenue split proportionally based on usage volume
 
 Custom Model: You define and justify methodology
 
-Final Deliverables
-
-3 CSV outputs with Platform,Revenue format
-
-Analysis summary with methodology, findings, recommendations
-
-Full analysis code with comments, error handling, validation steps
-
 
 
 
